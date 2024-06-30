@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Nike_Landing_page/static/css/main.3b564260.css",
+    "main.js": "/Nike_Landing_page/static/js/main.0eb4b9d0.js",
+    "static/js/453.6f0f9524.chunk.js": "/Nike_Landing_page/static/js/453.6f0f9524.chunk.js",
+    "static/media/flipkart.png": "/Nike_Landing_page/static/media/flipkart.4ec4488aff0d5fb737a5.png",
+    "static/media/amazone.png": "/Nike_Landing_page/static/media/amazone.8bb1d990fbf518209ed6.png",
+    "static/media/blackshoes.png": "/Nike_Landing_page/static/media/blackshoes.4e68ee250daaf144b5e4.png",
+    "static/media/Old_Nike_logo.jpg": "/Nike_Landing_page/static/media/Old_Nike_logo.c9634aed21dec454a55a.jpg",
+    "index.html": "/Nike_Landing_page/index.html",
+    "main.3b564260.css.map": "/Nike_Landing_page/static/css/main.3b564260.css.map",
+    "main.0eb4b9d0.js.map": "/Nike_Landing_page/static/js/main.0eb4b9d0.js.map",
+    "453.6f0f9524.chunk.js.map": "/Nike_Landing_page/static/js/453.6f0f9524.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b564260.css",
+    "static/js/main.0eb4b9d0.js"
+  ]
+}
