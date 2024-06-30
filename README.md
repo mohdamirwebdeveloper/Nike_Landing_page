@@ -16,7 +16,7 @@ This project is a landing page for Nike, built using React and Tailwind CSS.
 
 ## Demo
 
-Check out the live demo [here]([your-demo-link](https://mohdamirwebdeveloper.github.io/Nike_Landing_page/)).
+Check out the live demo [here](https://mohdamirwebdeveloper.github.io/Nike_Landing_page/).
 
 ## Features
 
