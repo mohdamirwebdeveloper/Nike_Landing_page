@@ -34,6 +34,5 @@ Check out the live demo [here](https://mohdamirwebdeveloper.github.io/Nike_Landi
 1. Clone the repository:
 
    ```bash
-[   git clone https://github.com/your-username/nike-landing-page.git
-](https://github.com/mohdamirwebdeveloper/Nike_Landing_page.git)   
-cd nike-landing-page
+   https://github.com/mohdamirwebdeveloper/Nike_Landing_page.git 
+   cd nike-landing-page
