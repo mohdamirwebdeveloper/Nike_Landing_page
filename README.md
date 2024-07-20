@@ -1,4 +1,4 @@
-# Nike Landing Page
+# Nike Landing Page(working on it! )
 
 This project is a landing page for Nike, built using React and Tailwind CSS.
 
